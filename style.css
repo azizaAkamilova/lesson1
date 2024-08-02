@@ -1,0 +1,36 @@
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center; 
+}
+
+.yellow{
+    background-color:yellow;
+    color: rgb(83, 71, 71);
+}
+
+caption{
+    border: 2px solid aqua;
+    background-color: aqua;
+    color:black;
+}
+.red{
+    background-color: red;
+    color: white;
+    height: 10px;
+}
+.green{
+    background-color:rgba(10, 119, 10, 0.87);
+    color:white;
+    height: 10px;
+}
+
+td {
+    height: 40px;
+    text-align: center;
+}
+
+th, td {
+    border: 1px solid black;
+}
